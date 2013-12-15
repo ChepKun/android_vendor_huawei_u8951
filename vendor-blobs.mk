@@ -194,7 +194,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8951/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/huawei/u8951/proprietary/lib/libchromatix_s5k4e1_f_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/huawei/u8951/proprietary/lib/libchromatix_s5k4e1_f_preview.so:system/lib/libchromatix_s5k4e1_f_preview.so \
-    vendor/huawei/u8951/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so
+    vendor/huawei/u8951/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
+    vendor/huawei/u8951/proprietary/lib/libSHIMDivxDrm.so:system/lib/libSHIMDivxDrm.so \
+    vendor/huawei/u8951/proprietary/lib/libcrypto.so:system/lib/libcrypto.so
 
 # nv
 PRODUCT_COPY_FILES += \
